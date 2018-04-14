@@ -1,0 +1,126 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/1a211bd2087ad75fd1dd7f6128692720/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.1.aar/4c9defd06f2c419ef7656974933684fc/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.1.aar/fa30c3feb32d587f9adb2a7c8d593a9f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.1.aar/63eceb2f56de3df36f3551b13947abe5/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.1.aar/41dd2c28c51dc7592a467db36222e9d8/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.1.aar/516f6903081d3443d13fee0f67b79fbc/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.1.aar/69f2173092964fa8ae537a66c5742195/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.1.aar/9481e2c5217c8236ee5bbedfafb7242c/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.1.aar/acc4573681021c4192b586b1b29bd68f/AndroidManifest.xml:17:1-27:12
+INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml
+		INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:7:5-60
+	android:name
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:7:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:8:5-95
+	android:required
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:8:68-92
+	android:name
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:8:19-67
+application
+ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:10:5-25:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/1a211bd2087ad75fd1dd7f6128692720/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/1a211bd2087ad75fd1dd7f6128692720/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.1.aar/4c9defd06f2c419ef7656974933684fc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.1.aar/4c9defd06f2c419ef7656974933684fc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.1.aar/fa30c3feb32d587f9adb2a7c8d593a9f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.1.aar/fa30c3feb32d587f9adb2a7c8d593a9f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.1.aar/63eceb2f56de3df36f3551b13947abe5/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.1.aar/63eceb2f56de3df36f3551b13947abe5/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.1.aar/41dd2c28c51dc7592a467db36222e9d8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.1.aar/41dd2c28c51dc7592a467db36222e9d8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.1.aar/516f6903081d3443d13fee0f67b79fbc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.1.aar/516f6903081d3443d13fee0f67b79fbc/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.1.aar/69f2173092964fa8ae537a66c5742195/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.1.aar/69f2173092964fa8ae537a66c5742195/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.1.aar/9481e2c5217c8236ee5bbedfafb7242c/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.1.aar/9481e2c5217c8236ee5bbedfafb7242c/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.1.aar/acc4573681021c4192b586b1b29bd68f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.1.aar/acc4573681021c4192b586b1b29bd68f/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:15:9-88
+activity#com.luxand.agegenderrecognition.MainActivity
+ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:screenOrientation
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml
+INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/1a211bd2087ad75fd1dd7f6128692720/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/1a211bd2087ad75fd1dd7f6128692720/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.1.aar/4c9defd06f2c419ef7656974933684fc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-v4-25.0.1.aar/4c9defd06f2c419ef7656974933684fc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.1.aar/fa30c3feb32d587f9adb2a7c8d593a9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.0.1.aar/fa30c3feb32d587f9adb2a7c8d593a9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.1.aar/63eceb2f56de3df36f3551b13947abe5/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.0.1.aar/63eceb2f56de3df36f3551b13947abe5/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.1.aar/41dd2c28c51dc7592a467db36222e9d8/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-fragment-25.0.1.aar/41dd2c28c51dc7592a467db36222e9d8/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.1.aar/516f6903081d3443d13fee0f67b79fbc/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.1.aar/516f6903081d3443d13fee0f67b79fbc/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.1.aar/69f2173092964fa8ae537a66c5742195/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.0.1.aar/69f2173092964fa8ae537a66c5742195/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.1.aar/9481e2c5217c8236ee5bbedfafb7242c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.0.1.aar/9481e2c5217c8236ee5bbedfafb7242c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.1.aar/acc4573681021c4192b586b1b29bd68f/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/support-compat-25.0.1.aar/acc4573681021c4192b586b1b29bd68f/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml
+INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] /home/johndoe/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.0.1.aar/1a211bd2087ad75fd1dd7f6128692720/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml
+		INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml
+		ADDED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml
+		INJECTED from /home/johndoe/Downloads/luxand_win/FaceSDK/samples/AgeGenderRecognition/AndroidStudio/agegenderrecognition/app/src/main/AndroidManifest.xml
